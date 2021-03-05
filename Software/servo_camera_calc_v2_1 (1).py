@@ -188,15 +188,16 @@ def after_record():
     #Experiment started
     sleep(28)
     
-    print('servo to top')
     p.start(duty)    
     #servo to top
-    while 0 < duty:
+    while duty < 100:
         duty+=13.0
-        p.ChangeDutyCycle(duty)
+        if duty > 89:
+            print("servo to top")
+            p.stop()
+        if duty < 89:
+            p.ChangeDutyCycle(duty)
         sleep(0.1)
-    sleep(IS_SERVO_MOVED)
-    p.stop()
 
     #is servo on top
     sleep(IS_SERVO_MOVED)
