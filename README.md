@@ -6,7 +6,13 @@
 <p style="text-align: justify;">The device is shown below.</p>
 <h2 style="text-align: center;"><img src="Imaging_Rig3.jpeg" alt="Imaging Rig" width="700" height="525" /></h2>
 <h2 style="text-align: center;"><img src="Imaging_Rig4.jpeg" alt="Imaging Rig 2" width="450" height="600" /></h2>
-<p><video controls="controls" width="300" height="150"><source src="Rig" /></video></p>
+
+<video width="1920" height="1080" controls="controls">
+  <source src="video.mp4" type="video/mp4" />
+  <source src="video.ogg" type="video/ogg" />
+</video>
+
+
 <p>The rig gives images like the following:</p>
 <p><img src="Rise_of_the_dye.jpeg" alt="Rise of the dye" /></p>
 <p style="text-align: justify;"><img src="MCF.jpeg" alt="MCF" /></p>
