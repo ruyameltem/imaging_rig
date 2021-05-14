@@ -8,8 +8,8 @@
 <h2 style="text-align: center;"><img src="Imaging_Rig4.jpeg" alt="Imaging Rig 2" width="450" height="600" /></h2>
 
 <video width="1920" height="1080" controls="controls">
-  <source src="video.mp4" type="video/mp4" />
-  <source src="video.ogg" type="video/ogg" />
+  <source src="Rig.mp4" type="video/mp4" />
+  <source src="Rig.ogg" type="video/ogg" />
 </video>
 
 
