@@ -7,5 +7,5 @@
 <p style="text-align: justify;"><img src="Imaging_Rig3.jpeg" alt="Imaging Rig" width="700" height="525" /></p>
 <p style="text-align: justify;"><img src="Imaging_Rig4.jpeg" alt="Imaging Rig 2" width="450" height="600" /></p>
 <p>The rig gives images like the following:</p>
-<p><img src="Rise_of_the_dye.jpeg" alt="Rise of the dye" width="800" height="389" /></p>
+<p><img src="Rise_of_the_dye.jpeg" alt="Rise of the dye" /></p>
 <p style="text-align: justify;"><img src="MCF.jpeg" alt="MCF" /></p>
