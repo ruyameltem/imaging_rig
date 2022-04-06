@@ -1,6 +1,7 @@
+<p style="text-align: justify;"><strong>Imaging Rig</strong></p>
 <p style="text-align: justify;"><strong>Developed by</strong> Edwards lab, University of Reading School of Pharmacy <a href="https://research.reading.ac.uk/biomedical-technology-lab/">Biomedical Technology Lab</a></p>
 
-<p style="text-align: justify;"><strong>Imaging Rig</strong></p>
+
 <p style="text-align: justify;">The imaging rig has been developing to quickly test platelet function for cardiovascular health and disease epidemiology.</p>
 <p style="text-align: justify;">This system can be used to measure the parameters of liquids such as density and viscosity. By taking time-lapse images, kinetic information of the fluid in the capillary can be obtained. In this way, it is a suitable device not only for blood studies, but also for anyone who wants to work with fluids.</p>
 
