@@ -11,6 +11,16 @@
 
 <p style="text-align: justify;">This project aims to develop new assays and miniaturised devices to measure the function of the blood cells involved in clotting and thrombus formation- platelets (thrombocytes). The micro capillary film containing small capillaries and made using a melt extrusion process is used to develop new ways of measuring platelet function. We have been testing new detection methods such as using the Raspberry Pi camera.</p>
 <p style="text-align: justify;">This research shall contribute to the improvement of a new generation with state-of-the-art but affordable point-of-care tests for global utilizations.</p>
+
+<p>The file with the necessary materials and prices to build the system:</p>
+<p><a title="Bill of Materials" href="https://gitlab.com/ruyameltem/imaging_rig/-/blob/master/Bill%20of%20Materials.pdf">Bill of Materials</a></p>
+</p>If you're wondering how the system works, check it out:</p>
+<p><a title="Rig" href="https://gitlab.com/ruyameltem/imaging_rig/-/blob/master/Rig.mp4">Rig</a></p>
+</p>A short video from an experiment:</p>
+<p><a title="Performing an experiment" href="&lt;p&gt;&lt;video controls=&quot;controls&quot; width=&quot;300&quot; height=&quot;150&quot;&gt; &lt;source src=&quot;https://gitlab.com/ruyameltem/imaging_rig/-/blob/master/Performing%20an%20experiment.mp4&quot; type=&quot;video/mp4&quot; /&gt;&lt;/video&gt;&lt;/p&gt;">Performing an experiment</a></p>
+<p>Here are the Python scripts you need:</p>
+<p><a title="Software" href="https://gitlab.com/ruyameltem/imaging_rig/-/tree/master/Software">Software</a></p>
+
 <p style="text-align: justify;">The device is shown below.</p>
 <h2 style="text-align: center;"><img src="Imaging_Rig3.jpeg" alt="Imaging Rig" width="700" height="525" /></h2>
 <h2 style="text-align: center;"><img src="Imaging_Rig4.jpeg" alt="Imaging Rig 2" width="450" height="600" /></h2>
