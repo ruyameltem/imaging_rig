@@ -18,12 +18,11 @@
 <p>The file with the necessary materials and prices to build the system:</p>
 <p><a title="Bill of Materials" href="https://gitlab.com/ruyameltem/imaging_rig/-/blob/master/Bill%20of%20Materials.pdf">Bill of Materials</a></p>
 
-</p>If you're wondering how the system works, check it out:</p>
+</p>If you are wondering how the system works, check it out:</p>
 <p><a title="Rig" href="https://gitlab.com/ruyameltem/imaging_rig/-/blob/master/Rig.mp4">Rig</a></p>
 
 </p>A short video from an experiment:</p>
-
-<p><a title="Performing an experiment" href="&lt;p&gt;&lt;video controls=&quot;controls&quot; width=&quot;300&quot; height=&quot;150&quot;&gt; &lt;source src=&quot;https://gitlab.com/ruyameltem/imaging_rig/-/blob/master/Performing%20an%20experiment.mp4&quot; type=&quot;video/mp4&quot; /&gt;&lt;/video&gt;&lt;/p&gt;">Performing an experiment</a></p>
+<p><a title="Performing an experiment" href="https://gitlab.com/ruyameltem/imaging_rig/-/blob/master/Performing%20an%20experiment.mp4">Performing an experiment</a></p>
 
 <p>Here are the Python scripts you need:</p>
 <p><a title="Software" href="https://gitlab.com/ruyameltem/imaging_rig/-/tree/master/Software">Software</a></p>
