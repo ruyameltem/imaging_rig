@@ -1,7 +1,7 @@
 
 <h1 style="text-align: justify;"><strong>Imaging Rig</strong></h1>
 <h2 style="text-align: center;">Lights, Camera, Action!</h2>
-<p><img src="https://i.ibb.co/pLZQtrF/Screenshot-2022-04-08-153114.png" alt="Rise of the blood and plasma" width="350" height="262" /></p>
+<p><img src="https://i.ibb.co/pLZQtrF/Screenshot-2022-04-08-153114.png" alt="Rise of the blood and plasma" /></p>
 
 <p style="text-align: justify;"><strong>Developed by</strong> Edwards lab, University of Reading School of Pharmacy <a href="https://research.reading.ac.uk/biomedical-technology-lab/">Biomedical Technology Lab</a></p>
 
