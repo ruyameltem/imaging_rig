@@ -33,7 +33,7 @@
 <p><a title="Software: Raspberry Pi" href="https://www.raspberrypi.com/software/" target="_blank" rel="noopener">Software: Raspberry Pi</a></p>
 <p><a title="Getting started with 7&Prime; touchscreen" href="https://www.okdo.com/getting-started/get-started-with-7-touchscreen-for-raspberry-pi/" target="_blank" rel="noopener">Getting started with 7&Prime; touchscreen</a></p>
 <p><a title="Getting started with picamera" href="https://projects.raspberrypi.org/en/projects/getting-started-with-picamera" target="_blank" rel="noopener">Getting started with picamera</a></p>
-<p><a title="Gantry plate Assembly" href="https://ooznest.co.uk/wp-content/uploads/2018/07/OX-Assembly-Manual.pdf" target="_blank" rel="noopener">Gantry plate Assembly</a></p>
+<p><a title="Gantry plate assembly" href="https://ooznest.co.uk/wp-content/uploads/2018/07/OX-Assembly-Manual.pdf">Gantry plate assembly</a></p>
 <p><a title="Instructions: servo six board" href="https://cdn.shopify.com/s/files/1/0176/3274/files/instructions_servo_six.pdf?v=1589990518" target="_blank" rel="noopener">Instructions: servo six board</a></p>
 <p><a title="Relay and Raspberry Pi" href="https://www.electronicshub.org/control-a-relay-using-raspberry-pi/#:~:text=Technically%20speaking%2C%20a%20relay%20is,with%20respect%20to%20Raspberry%20Pi." target="_blank" rel="noopener">Relay and Raspberry Pi</a></p>
 
