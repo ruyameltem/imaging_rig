@@ -1,0 +1,20 @@
+<h2>Technical Specifications:</h2>
+<p>This is an open-source robotic microfluidic blood analysis using Rasberry Pi.</p>
+<p>The test strips are melt-extruded fluoropolymer MCF containing 10 microcapillaries. The Microcapillary film is shown below.</p>
+<p><img src="https://ibb.co/Z69wg8h" alt="Microcapillary Film" /></p>
+<p>A strip holder contains 12 strips. The holder is shown below.</p>
+<p><img src="https://ibb.co/B3YDrnK" alt="holder" width="1023" height="768" /></p>
+<p>A light source is built using white LEDs. It is suitable for colorimetric use.</p>
+<p>The contents of the light box are shown below.</p>
+<p><img src="https://ibb.co/SQpdxsC" alt="LED light box" /></p>
+<p>Opal acrylic light diffuser sheet and black cast acrylic sheet were used. LED strips were connected to each other with black and red wires. And the strips were glued with silicone on the black sheet.</p>
+<p>The sheets were then fixed to V-slot aluminium linear rail extrusions. The light source is controlled by a grove single relay.</p>
+<p>Initially, a handmade LED turns on by controlling a relay, after that a servo motor via the gantry plate and wheels dip the strip holder into the blood sample which moves into the capillaries by capillary action and after the test is completed the strip holder goes back and the LED turns off.</p>
+<p>The servo motor needs 4 batteries. In the meantime, a raspberry pi camera V2 takes images during the experiment.</p>
+<p>This camera can take between 6 and 8 images within 1 second. In order to be able to take 6 to 8 photographs in 1 second, the number of photographs to be taken during the test period is determined and the photographs are first recorded in the memory after the test is completed, the photographs are saved as backup and the measurement is started. Its resolution is 3280x2464.</p>
+<p>Taking the images can be previewed on the touchscreen and the test can be started by clicking run on the script via touchscreen.</p>
+<p>There is only one script that can control the relay (LED), the servo motor and the camera. With the one-click, the test can be done. The python script has instructions about what the script does and how to change features such as camera resolution, fps, experiment time etc. The device is shown below.</p>
+<p><img src="https://ibb.co/km74qd4" alt="The Rig" /></p>
+<p>After the images are taken, the calculation part begins. From the photos taken in first step, the rise of the blood sample and velocity are calculated, and the data are saved.</p>
+<p>The rig gives image like the following:</p>
+<p><img src="https://ibb.co/fkR8cw7" alt="Sample image" /></p>
