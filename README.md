@@ -17,7 +17,9 @@
 
 <h3 style="text-align: justify;">Materials list</h3>
 <p>The file with the necessary materials and prices to build the system:</p>
-<p><a title="Bill of Materials" href="https://gitlab.com/ruyameltem/imaging_rig/-/blob/master/Bill%20of%20Materials.pdf">Bill of Materials</a></p>
+<p><a title="Bill of Materials" href="https://gitlab.com/ruyameltem/imaging_rig/-/blob/master/Bill%20of%20Materials.pdf" target="_blank" rel="noopener">Bill of Materials</a></p>
+<p><a title="3D-printed parts" href="https://gitlab.com/ruyameltem/imaging_rig/-/blob/master/3D%20printed%20parts.pdf">3D-printed parts</a></p>
+<p><a title="Design files - OpenSCAD" href="https://gitlab.com/ruyameltem/imaging_rig/-/tree/master/Design_files%20-%20OpenSCAD" target="_blank" rel="noopener">Design files - OpenSCAD</a></p>
 
 <h3 style="text-align: justify;">Run the Rig</h3>
 </p>You only need to place your samples and microfluidic into the system. Then only you will need to run the script.</p>
