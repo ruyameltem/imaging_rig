@@ -55,7 +55,8 @@ See figures:
 <p>Useful links for camera and screen assembly instructions: <a title="Getting started with 7&Prime; touchscreen" href="https://www.okdo.com/getting-started/get-started-with-7-touchscreen-for-raspberry-pi/" target="_blank" rel="noopener">Getting started with 7&Prime; touchscreen</a>, <a title="Getting started with picamera" href="https://projects.raspberrypi.org/en/projects/getting-started-with-picamera" target="_blank" rel="noopener">Getting started with picamera</a></p>
 
 <h4 style="text-align: justify;">Assembling the light sources and relay</h4>
-<p>The white LED strips were soldered to the plastic sheet with black and red wires and framed by 4 20x80mm aluminium extrusions. The black wire should be soldered to the minus and the red wire to the positive. The lightbox was also mounted on the main frame.</p>
+<p>The white LED strips were soldered to the plastic sheet with black and red wires and framed by 4 20x80mm aluminium extrusions. The black wire should be soldered to the minus and the red wire to the positive. 2 holes were drilled on the plastic sheets and the sheets were mounted on the extrusion with screws. The lightbox was also mounted on the main frame.</p>
+
 <p>The light source is controlled by Raspberry Pi via relay.</p>
 <p>Useful links for relay assembly instructions and LED wiring: <a title="Relay and Raspberry Pi" href="https://www.electronicshub.org/control-a-relay-using-raspberry-pi/#:~:text=Technically%20speaking%2C%20a%20relay%20is,with%20respect%20to%20Raspberry%20Pi." target="_blank" rel="noopener">Relay and Raspberry Pi</a>, <a title="LED strips" href="https://www.waveformlighting.com/home-residential/how-to-connect-an-led-strip-to-a-power-supply" target="_blank" rel="noopener">LED strips</a></p>
 
@@ -69,6 +70,8 @@ See figures:
 <p>A short video from an experiment: <a title="Performing an experiment" href="https://gitlab.com/ruyameltem/imaging_rig/-/blob/master/Performing%20an%20experiment.mp4">Performing an experiment</a></p>
 
 <h3 style="text-align: justify;">Software</h3>
+
+<p>To view, edit, and run a Python script, you can use the Thonny which is an integrated development environment (IDE). It is already pre-installed on the Raspberry Pi. Check out the link for the helpful video: <a title="Raspberry Pi OS - Get Started with Thonny IDE" href="https://www.youtube.com/watch?v=GssM7hkwJrc" target="_blank" rel="noopener">Raspberry Pi OS - Get Started with Thonny IDE</a></p>
 
 <p>If you want to update Python and your Raspberry Pi, make sure you type and run the following separately in the command section:</p>
 <p>1 - sudo apt update</p>
