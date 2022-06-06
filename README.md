@@ -96,3 +96,5 @@ See figures:
 <p><img src="https://i.ibb.co/ZJ02xhD/Picture9.jpg" alt="Picture9" border="0"></p>
 <p>The rig gives images like the following one:</p>
 <p><img src="Sample_image_1.jpeg" alt="Rise of the blood and plasma" /></p>
+
+[![DOI](https://zenodo.org/badge/500486021.svg)](https://zenodo.org/badge/latestdoi/500486021)
