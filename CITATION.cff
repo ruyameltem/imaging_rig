@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software and hardware, please cite it as below."
+authors:
+- family-names: "SARIYER"
+  given-names: "Rüya Meltem"
+  orcid: "https://orcid.org/0000-0002-2155-653X"
+title: "imaging Rig for Microfluidic blood analysiS (RMS)"
+version: 1.0.6
+doi: 10.5281/zenodo.6617301
+date-released: 2022-06-06
+url: "https://github.com/ruyameltem/imaging_rig"
